@@ -23,27 +23,27 @@
 | 1 | Introdução |
 | 2 | Integração com HTML |
 | 3 | Algoritmos com Node.js |
+| 4 | Condições |
 
 ### 🔄 **EM ANDAMENTO**
 | Cap | Título |
 |-----|--------|
-| **4** | **Condições** |
+| **5** | **Repetições**|
 
 ### ⏳ **PLANEJADOS**
 | Cap | Título |
 |-----|--------|
-| 5 | Repetições |
 | 6 | Vetores |
 | 7 | Strings e datas |
 | 8 | Funções e eventos |
 | 9 | Persistência com localStorage |
 | 10 | Elementos HTML via JavaScript |
 | 11 | Projetos práticos |
-| 12 | Back-end com Express |
 
 ### 🚫 **NÃO SERÁ ESTUDADO**
 | Cap | Título | Motivo |
 |-----|--------|--------|
+| ~~12~~ | ~~Back-end com Express~~ | Foco total em Angular |
 | ~~13~~ | ~~Front-end com React~~ | Foco total em Angular |
 
 ---
