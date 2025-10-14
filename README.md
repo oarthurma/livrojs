@@ -58,19 +58,17 @@
 - Estruturas condicionais (if/else, switch)
 - Operadores relacionais e lógicos
 - DOM manipulation básico
-
+- Estruturas condicionais avançadas
+- Exercícios práticos com condições
+- Operador ternário em cenários complexos
 ### 🔄 **ESTUDANDO AGORA**
-- **Estruturas condicionais avançadas**
-- **Exercícios práticos com condições**
-- **Operador ternário em cenários complexos**
+- **Estruturas de repetição (for, while, do-while)**
 
 ### 🎯 **PRÓXIMOS OBJETIVOS**
-- Estruturas de repetição (for, while, do-while)
 - Manipulação de arrays e vetores
 - Funções avançadas e eventos
 - Programação orientada a objetos
 - APIs e programação assíncrona
-- Back-end com Express.js
 
 ## 🎮 Projetos Destacados (Cap 11)
 
