@@ -14,5 +14,7 @@ do {
     console.log(`Não houve Copa em ${ano} (Segunda Guerra do Mundo)`)
   } else if (ano >= 1930 && ano % 4 == 2) {
     console.log(`Sim! ${ano} é ano de Copa do Mundo!`)
+  } else {
+    console.log(`Não...${ano} não é ano de Compa do Mundo.`)
   }
-}
+}while(true)
