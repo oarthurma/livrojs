@@ -17,43 +17,34 @@
 
 ## 📚 Estrutura de Estudos (11 Capítulos)
 
-### ✅ **CONCLUÍDOS**
-| Cap | Título |
-|-----|--------|
-| 1 | Introdução |
-| 2 | Integração com HTML |
-| 3 | Algoritmos com Node.js |
-| 4 | Condições |
-
-### 🔄 **EM ANDAMENTO**
-| Cap | Título |
-|-----|--------|
-| **5** | **Repetições**|
-
-### ⏳ **PLANEJADOS**
-| Cap | Título |
-|-----|--------|
-| 6 | Vetores |
-| 7 | Strings e datas |
-| 8 | Funções e eventos |
-| 9 | Persistência com localStorage |
-| 10 | Elementos HTML via JavaScript |
-| 11 | Projetos práticos |
+| Cap | Título                        |
+| --- | ----------------------------- |
+| 1   | Introdução                    |
+| 2   | Integração com HTML           |
+| 3   | Algoritmos com Node.js        |
+| 4   | Condições                     |
+| 5   | Repetições                    |
+| 6   | Vetores                       |
+| 7   | Strings e datas               |
+| 8   | Funções e eventos             |
+| 9   | Persistência com localStorage |
+| 10  | Elementos HTML via JavaScript |
+| 11  | Projetos práticos             |
 
 ### 🚫 **NÃO SERÁ ESTUDADO**
-| Cap | Título | Motivo |
-|-----|--------|--------|
+
+| Cap    | Título                   | Motivo                |
+| ------ | ------------------------ | --------------------- |
 | ~~12~~ | ~~Back-end com Express~~ | Foco total em Angular |
-| ~~13~~ | ~~Front-end com React~~ | Foco total em Angular |
+| ~~13~~ | ~~Front-end com React~~  | Foco total em Angular |
 
 ---
 
 ## 🚀 Tecnologias e Conceitos
 
-### ✅ **JÁ DOMINADOS**
 - Lógica de programação e algoritmos
 - HTML5 semântico e formulários
-- CSS3 e integração HTML/JavaScript  
+- CSS3 e integração HTML/JavaScript
 - Node.js para algoritmos
 - Estruturas condicionais (if/else, switch)
 - Operadores relacionais e lógicos
@@ -61,10 +52,7 @@
 - Estruturas condicionais avançadas
 - Exercícios práticos com condições
 - Operador ternário em cenários complexos
-### 🔄 **ESTUDANDO AGORA**
-- **Estruturas de repetição (for, while, do-while)**
-
-### 🎯 **PRÓXIMOS OBJETIVOS**
+- Estruturas de repetição (for, while, do-while)\*\*
 - Manipulação de arrays e vetores
 - Funções avançadas e eventos
 - Programação orientada a objetos
@@ -73,8 +61,9 @@
 ## 🎮 Projetos Destacados (Cap 11)
 
 Quando chegar no Capítulo 11, implementarei:
+
 - 🏇 **Jockey Club**: Sistema de apostas
-- 🎭 **Reserva de Poltronas**: Sistema de cinema/teatro  
+- 🎭 **Reserva de Poltronas**: Sistema de cinema/teatro
 - 🎯 **Descubra a Palavra**: Jogo de adivinhação
 
 ## 👨‍💻 Autor
@@ -89,7 +78,6 @@ Quando chegar no Capítulo 11, implementarei:
 
 - 📖 **Livro**: Lógica de Programação e Algoritmos com JavaScript (2ª ed.) - Edécio F. Iepsen - ISBN: 978-65-86183-82-9
 - 📝 **Documentação Oficial**: [MDN Web Docs - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
 
 ---
 
@@ -109,18 +97,11 @@ Quando chegar no Capítulo 11, implementarei:
     ```
 
 ---
-## 🤝 Contribuições
-- Sugestões de exercícios ✨
-- Melhorias no código 🚀  
-- Discussões sobre algoritmos 💬
-
------
-
 
 <div align="center">
 
 **🎯 "Base sólida hoje, Angular expert amanhã!"**
 
-*Construindo fundamentos para ser um Angular Developer completo* ❤️
+_Construindo fundamentos para ser um Angular Developer completo_ ❤️
 
 </div>
