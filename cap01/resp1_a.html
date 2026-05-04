@@ -9,14 +9,15 @@
 <meta charset="utf-8">
 
 <script>
-// Entrada de dados:
-const numero = Number(prompt("Número: "));
+  
+// lê um número
+const num = Number(prompt("Número: "))
 
-// Processamento:
-const vizinhoMenor = numero - 1;
-const vizinhoMaior = numero + 1;
+// calcula vizinhos
+const anterior = numero - 1
+const posterior = numero + 1
 
-// Saída de dados:
-alert(`Vizinhos: ${vizinhoMenor} e ${vizinhoMaior}`)
+// exibe a resposta:
+alert(`Vizinhos: ${anterior} e ${posterior}`)
 
 </script>
